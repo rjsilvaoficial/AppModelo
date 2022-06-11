@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = DevIO.UI.Site
+build_property.ProjectDir = C:\Projetos\AspNetCoreMVC\AppModelo\src\DevIO.UI.Site\
